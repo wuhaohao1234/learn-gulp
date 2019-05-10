@@ -1,0 +1,19 @@
+{
+  "name": "learn-gulp",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/wuhaohao1234/learn-gulp.git",
+  "author": "wuhaohao1234 <1611499758@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "npx gulp"
+  },
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-concat": "^2.6.1",
+    "gulp-jshint": "^2.1.0",
+    "gulp-load-plugins": "^1.5.0",
+    "gulp-uglify": "^3.0.2",
+    "jshint": "^2.10.2"
+  }
+}
